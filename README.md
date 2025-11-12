@@ -1,7 +1,7 @@
 ## 과제
 ### netflix.com/kr FE 넷플릭스 코리아  클론코딩
--한글화 작업 by ksh322 <br>
--한글/일본어 전환 기능 추가예정 by  <br>
+ <br>
+ <br>
 -회원가입 페이지 추가예정 <br>
 
 -demo 페이지 배포 완 by github.io
@@ -14,7 +14,7 @@ SCIT 48기 A반
 ## 프로젝트 소개
 넷플릭스 코리아 클론코딩
 ### [데모 시연 페이지]
-(http://scit4848.github.io/frontend48/)
+(http://scit4848.github.io/neruflix48/)
 
 ## 구성 요소 (기술스택)
 
