@@ -1,11 +1,8 @@
 ## 과제
-### netflix.com/kr FE 넷플릭스 코리아  클론코딩
+### Neruflix 넷플릭스 코리아 클론코딩  netflix.com/kr 
  <br>
- <br>
--회원가입 페이지 추가예정 <br>
 
--demo 페이지 배포 완 by github.io
-<br>
+-demo 페이지 배포 완 by github.io & cloudflare pages <br>
 
 ## 팀원 소개
 SCIT 48기 A반
@@ -13,6 +10,7 @@ SCIT 48기 A반
 
 ## 프로젝트 소개
 넷플릭스 코리아 클론코딩
+
 ### [데모 시연 페이지]
 https://neruflix.pages.dev/
 
@@ -24,11 +22,13 @@ https://neruflix.pages.dev/
 - CSS
 - Vanilla JS - ES6
 
-## Netflix Clone
+## 넷플릭스 Clone
 
-- main Page
+- main Page (index.html)
 - Login Page
 - Signup Page
+- Profile Page
+- netflix/browse Page
 
 ## Learning Points
 
