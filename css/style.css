@@ -21,10 +21,14 @@ ul {
 }
 
 h1,
-h2,
+
 h3,
 h4 {
   color: #fff;
+}
+
+h2{
+  color: red;
 }
 
 a {

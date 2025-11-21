@@ -86,6 +86,15 @@ form button {
     cursor: pointer;
     transition: 0.1s ease;
 }
+.btn {
+  display: inline-block;
+  background-color: #e50914;
+  color: #fff;
+  padding: 0.8rem 1.5rem;
+  text-align: center;
+  border-radius: 4px;
+  text-decoration: none;
+}
 form button:hover {
     background: #c40812;
 }
