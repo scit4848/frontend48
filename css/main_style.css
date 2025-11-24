@@ -5,6 +5,7 @@ body {
   color: white;
   font-family: Arial, sans-serif;
   overflow-x: hidden;
+  padding-top: 60px;  /* 네비게이션 높이만큼 여백 추가 */
 }
 
 /* 상단 네비게이션 */
@@ -90,7 +91,8 @@ button {
 
 /* 영화 섹션 */
 .movie-section {
-  padding: 60px 40px 20px;
+  
+  padding-top: 100px; /* 넉넉하게 위로 내리기 */
 }
 
 .movie-section h2 {
