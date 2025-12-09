@@ -17,15 +17,13 @@ ASMR 기반 넷플릭스 코리아 클론코딩
 ### [데모 시연 페이지]
 https://neruflix.pages.dev/
 
-## 구성 요소 (기술스택)
-
-<br> Built with:
-
+## Built with:
+Languages<br>
 - HTML
 - CSS
 - Vanilla JS - ES6
 
-## 넷플릭스 Clone pages
+## 구성 pages
 
 - main Page (index.html)
 - Signin Page
@@ -72,7 +70,9 @@ https://neruflix.pages.dev/
 | **`docs`** | 문서 변경 (README 등) | `docs: README.md 내용 업데이트` |
 | **`chore`** | 기타 설정, 빌드 작업 | `chore: .gitignore 파일 업데이트` |
 
-## Acknowledgments
+## Acknowledgments 48기 정보공유방
 scit48.duckdns.org
 port number 8888
+Id : 영문이니셜
+PW : 대외비
 
