@@ -4,7 +4,7 @@ ASMR 컨셉 NERUFLIX
 
 ## Team 및 역할 소개
 SCIT 48기 A반 <br>
-김상호님 기획,index.html,로그인,사인업, 프로필페이지, 배포 <br>
+김상호님 기획,index.html,로그인, 회원가입, 프로필페이지, 배포, 시연 <br>
 서동욱님 Team Leading, logo 제작, 최종 merge <br>
 장지웅님 메인페이지 <br>
 강준석님 메인페이지 
@@ -12,7 +12,7 @@ SCIT 48기 A반 <br>
 
 ### [Demo Page URL]
 https://neruflix.pages.dev/
-<br> by github.io & cloudflare pages (w/ KSH3222 <br>
+<br> by github.io & cloudflare pages (w/ KSH322 <br>
 ## Built with:
 Languages<br>
 - HTML
