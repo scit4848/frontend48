@@ -4,7 +4,7 @@ ASMR 컨셉 NERUFLIX
 
 ## Team 및 역할 소개
 SCIT 48기 A반 <br>
-김상호님 기획,index.html,로그인, 회원가입, 프로필페이지, 배포, 시연 <br>
+김상호님 기획,index.html,로그인, 회원가입, 프로필페이지, cloudflare 배포, 시연 <br>
 서동욱님 Team Leading, logo 제작, 최종 merge <br>
 장지웅님 메인페이지 <br>
 강준석님 메인페이지 
@@ -12,7 +12,7 @@ SCIT 48기 A반 <br>
 
 ### [Demo Page URL]
 https://neruflix.pages.dev/
-<br> by github.io & cloudflare pages (w/ KSH322 <br>
+<br> by github.io & cloudflare pages <br>
 ## Built with:
 Languages<br>
 - HTML
@@ -25,7 +25,7 @@ Languages<br>
 - Signin Page
 - Signup Page
 - Profile Page
-- browse Page
+- contents Page (mainindex.html)
 
 ## 🛠️ 개발 환경 설정 방법
 1. **Git 설치:** [Git 공식 사이트](https://git-scm.com/)에서 Git을 다운로드하고 설치합니다.
@@ -69,6 +69,6 @@ Languages<br>
 ## Acknowledgments 48기 정보공유방 One morething... 
 scit48.duckdns.org
 port number 8888
-Id : 영문이니셜
-PW : 대외비(생일)
+Id : 영문이니셜(대외비)
+PW : 대외비   (본인생일)
 
